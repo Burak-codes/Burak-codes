@@ -1,16 +1,39 @@
-## Hi there 👋
+# Merhaba, ben Burak Can İnal 👋
 
-<!--
-**Burak-codes/Burak-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Bilgisayar Programcılığı öğrencisiyim. Kod yazmayı, algoritma geliştirmeyi ve verilerle çalışmayı seviyorum.  
+🎯 Amacım kendimi sürekli geliştirerek yazılım dünyasında kalıcı bir yer edinmek.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda Kısaca
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Eskişehir’de 4 yıllık İstatistik bölümünde 3 yıl okuduktan sonra ilgim doğrultusunda yazılıma yöneldim.
+- 💻 Şu an Sivas Cumhuriyet Üniversitesi’nde Bilgisayar Programcılığı 2. sınıf öğrencisiyim.
+- ⚙️ C, C++, Python ve veri tabanı konularında çalışmalar yapıyorum.
+  
+
+---
+
+# Hello, I'm Burak Can İnal 👋
+
+📚 I'm a Computer Programming student from Türkiye. I love coding, solving problems and working with data.  
+🎯 My goal is to continuously improve myself and become a strong developer in the tech industry.
+
+## 🚀 About Me
+
+- 👨‍🎓 Studied 3 years of Statistics, then shifted into programming based on my personal interest.
+- 💻 Currently studying Computer Programming at Sivas Cumhuriyet University.
+- ⚙️ Interested in C, C++, Python, and database systems (SQL, NoSQL).
+  
+
+---
+
+## 🔗 Bağlantılar / Links
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/burak-can-inal-5b518a313)  
+- 🗂️ [Projelerim → GitHub Repolarım](https://github.com/Burak-codes?tab=repositories)
+
+---
+
+## ✨ Not
+
+Bu profil, kendi gelişimimi göstermek ve açık kaynak dünyasında yer almak için oluşturulmuştur.
+
