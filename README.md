@@ -22,9 +22,13 @@
 - 👨‍🎓 Studied 3 years of Statistics, then shifted into programming based on my personal interest.
 - 💻 Currently studying Computer Programming at Sivas Cumhuriyet University.
 - ⚙️ Interested in C, C++, Python, and database systems (SQL, NoSQL).
-  
+ ---
+## 🧰 Tech I Use
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,git,github,mongodb,mysql,docker,linux,python,c,cpp" />
+</p>
+ ---
 
 ## 🔗 Connect With Me
 
@@ -36,11 +40,6 @@
 
 ---
 
-## 🧰 Tech I Use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,git,github,mongodb,mysql,docker,linux,python,c,cpp" />
-</p>
 
 ## ✨ Not
 
