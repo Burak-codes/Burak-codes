@@ -26,12 +26,6 @@
 
 ---
 
-## 🔗 Bağlantılar / Links
-
-- 📎 [LinkedIn](https://www.linkedin.com/in/burak-can-inal-5b518a313)  
-- 🗂️ [Projelerim → GitHub Repolarım](https://github.com/Burak-codes?tab=repositories)
-
----
 ## 🔗 Connect With Me
 
 <p align="left">
