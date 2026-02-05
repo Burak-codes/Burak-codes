@@ -34,6 +34,13 @@
   </a>
 </p>
 
+---
+
+## 🧰 Tech I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,git,github,mongodb,mysql,docker,linux,python,c,cpp" />
+</p>
 
 ## ✨ Not
 
