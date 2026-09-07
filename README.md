@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Burak Can İnal
 
-🎓 Sivas Cumhuriyet Üniversitesi **Bilgisayar Programcılığı** bölümünden mezun oldum ve bölümümü **birincilikle tamamladım**.
+🎓 Sivas Cumhuriyet Üniversitesi **Bilgisayar Programcılığı** bölümünden mezun oldum.
 
 💻 Yazılım geliştirme, backend teknolojileri, algoritmalar ve veritabanları üzerine çalışıyorum.  
 🚀 Farklı teknolojilerle gerçek projeler geliştirerek yazılım mühendisliği becerilerimi sürekli ilerletiyorum.
