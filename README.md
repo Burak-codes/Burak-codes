@@ -1,121 +1,118 @@
-# 👋 Merhaba, ben Burak Can İnal
+# Burak Can İnal
 
-🎓 Sivas Cumhuriyet Üniversitesi **Bilgisayar Programcılığı** bölümünden mezun oldum.
+### Software Developer · Backend · .NET · Data
 
-💻 Yazılım geliştirme, backend teknolojileri, algoritmalar ve veritabanları üzerine çalışıyorum.  
-🚀 Farklı teknolojilerle gerçek projeler geliştirerek yazılım mühendisliği becerilerimi sürekli ilerletiyorum.
+I spent three years studying Statistics before moving into software development.
 
-🎯 Şu anda **Junior Software Developer, Backend Developer ve .NET Developer** pozisyonlarında yeni fırsatlara açığım.
+Statistics taught me how to think about patterns, data and problems.  
+Software gave me a way to turn that thinking into things people can actually use.
 
----
-
-## 🚀 Hakkımda
-
-- 🏆 Sivas Cumhuriyet Üniversitesi Bilgisayar Programcılığı bölümünü **birincilikle tamamladım**.
-- 📊 Eskişehir Osmangazi Üniversitesi İstatistik bölümünde 3 yıl eğitim aldım.
-- 💻 İlgi alanım doğrultusunda yazılım geliştirme alanına yöneldim.
-- 🧠 Algoritmalar, problem çözme, backend geliştirme ve veritabanlarıyla ilgileniyorum.
-- ⚙️ C#, .NET, C++, Python ve JavaScript başta olmak üzere farklı teknolojilerle projeler geliştiriyorum.
-- 🗄️ SQL ve NoSQL veritabanlarıyla çalışıyorum.
-- 🌱 Yeni teknolojileri öğrenmeye ve üretim odaklı projeler geliştirmeye devam ediyorum.
+Today, I build applications, experiment with different technologies and focus on becoming a better software developer through real projects.
 
 ---
 
-# 👋 Hello, I'm Burak Can İnal
+## About
 
-🎓 I graduated from **Computer Programming at Sivas Cumhuriyet University**, finishing **first in my program**.
+I graduated from **Sivas Cumhuriyet University, Computer Programming**, finishing **first in my program**.
 
-💻 I'm a junior software developer interested in backend development, algorithms, databases, and building practical software solutions.  
-🚀 I continuously improve my skills by developing projects with different technologies and exploring modern software development practices.
+Before software, I studied Statistics for three years at Eskişehir Osmangazi University. That background still influences the way I approach programming: understand the problem first, then build the solution.
 
-🎯 Currently open to **Junior Software Developer, Backend Developer, and .NET Developer** opportunities.
+My main interests are:
 
----
+- Backend development
+- C# and .NET
+- Algorithms and problem solving
+- Database design
+- Data-driven applications
+- Software architecture
 
-## 🚀 About Me
-
-- 🏆 Graduated **first in my Computer Programming program** at Sivas Cumhuriyet University.
-- 📊 Studied Statistics for 3 years at Eskişehir Osmangazi University before transitioning into software development.
-- 🧠 Interested in algorithms, problem solving, backend development, and database systems.
-- ⚙️ Building projects primarily with C#, .NET, C++, Python, and JavaScript.
-- 🗄️ Experienced with both SQL and NoSQL database technologies.
-- 🌱 Continuously learning modern software development tools and practices.
+I am currently looking for opportunities as a **Junior Software Developer, Backend Developer or .NET Developer**.
 
 ---
 
-## 🧰 Technologies I've Worked With
+## What I Work With
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,python,js,nodejs,html,css,mongodb,mysql,docker,git,github,linux" />
 </p>
 
-### Languages
+**Languages**
+
 `C#` `C++` `C` `Python` `JavaScript` `SQL`
 
-### Backend & Development
+**Backend**
+
 `.NET` `ASP.NET Core` `Node.js` `REST APIs`
 
-### Databases
+**Data**
+
 `Microsoft SQL Server` `MySQL` `MongoDB`
 
-### Tools
-`Git` `GitHub` `Docker` `Linux` `VS Code`
+**Tools**
+
+`Git` `GitHub` `Docker` `Linux`
 
 ---
 
-## 📌 Featured Projects
+## Selected Work
 
-### 🤖 INALLM
-An experimental software project focused on working with modern AI and software development technologies.
+### INALLM
+A project where I explore how modern software systems and intelligent technologies can be brought together in a practical application.
 
-### 📚 SAP CAP Bookstore
-A bookstore application developed using the **SAP Cloud Application Programming Model (CAP)**.
+### SAP CAP Bookstore
+A bookstore application built with the SAP Cloud Application Programming Model, focusing on backend structure and data-driven application development.
 
-### 🧠 Animal Classification with CNN
-An image classification project using **Convolutional Neural Networks (CNN)** and machine learning techniques.
+### Animal Classification
+A computer vision project that uses convolutional neural networks to classify animal images.
 
-### 🎹 YourMauiPiano
-A cross-platform piano application developed with **.NET MAUI**.
+### YourMauiPiano
+A cross-platform piano application developed with .NET MAUI.
 
-### 💾 SmartBackup
-A file backup application designed to automate and simplify backup operations.
+### SmartBackup
+A desktop utility designed to simplify and automate file backup workflows.
 
-> 📂 You can explore my repositories below for source code, documentation, and other projects.
-
----
-
-## 🎯 Currently Focusing On
-
-- Backend Development
-- C# & .NET
-- REST API Development
-- Database Design
-- Algorithms & Data Structures
-- Software Architecture
-- Building production-oriented applications
+### BİCİ
+A software project developed as part of my ongoing journey of turning ideas into working applications.
 
 ---
 
-## 🔗 Connect With Me
+## What I'm Building Toward
 
-<p align="left">
+I don't want to collect technologies just to list them on a profile.
 
-<a href="https://www.linkedin.com/in/burak-can-inal-5b518a313/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+I want to understand how real software is designed, built, tested and maintained.
 
-<a href="https://github.com/Burak-codes">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+Right now, I'm especially focused on:
 
-</p>
-
-🌐 **Portfolio:** [burakcaninal.com](https://burakcaninal.com)
+`C# / .NET` · `Backend Systems` · `APIs` · `Databases` · `Software Architecture`
 
 ---
 
-## 💡 Philosophy
+## Beyond the Code
 
-> Learn by building. Improve by solving. Keep shipping.
+My path into software wasn't linear.
 
-I use this profile to document my progress, share my projects, and continuously improve as a software developer.
+I came from Statistics, changed direction, started again in a different field and eventually graduated first in my program.
+
+That journey is probably the best summary of how I work:
+
+**learn, adapt, build, improve.**
+
+---
+
+## Contact
+
+**Portfolio**  
+[burakcaninal.com](https://burakcaninal.com)
+
+**LinkedIn**  
+[linkedin.com/in/burak-can-inal-5b518a313](https://www.linkedin.com/in/burak-can-inal-5b518a313/)
+
+**GitHub**  
+[github.com/Burak-codes](https://github.com/Burak-codes)
+
+---
+
+<sub>
+Based in Türkiye · Open to software development opportunities
+</sub>
